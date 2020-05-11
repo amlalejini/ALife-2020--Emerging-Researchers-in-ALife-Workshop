@@ -38,7 +38,9 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 |---|---|---|---|
 | 1 | Daniel Junghans | TBD | TBD |
 | 2 | Aymeric Vié | TBD | TBD |
-| 3 | You! | TBD | TBD |
+| 3 | Kevin Godin-Dubois | TBD | TBD |
+| 4 | You! | TBD | TBD |
+
 
 ### Academic Karaoke
 
