@@ -51,7 +51,9 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 - ALife conference: July 13-18, 2020
   - Register here: [2020.alife.org](http://2020.alife.org)
-- Workshop: TBD
+- Workshop: Thursday, July 16th, 2020 
+  - 13:00-16:00 EDT / 17:00-20:00 UTC 
+  - [Click here to find your local time!](https://www.timeanddate.com/worldclock/fixedtime.html?p1=179&iso=20200716T13&msg=2020%20Emerging%20Researchers%20in%20Artificial%20Life%20Workshop&ah=3)
 
 ## Organizers
 
