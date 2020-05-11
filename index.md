@@ -37,8 +37,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
 | 1 | Daniel Junghans | TBD | TBD |
-| 2 | Aymeric Vié | A genetic algorithm to solve Blotto
-Games | TBD |
+| 2 | Aymeric Vié | A genetic algorithm to solve Blotto Games | TBD |
 | 3 | Kevin Godin-Dubois | TBD | TBD |
 | 4 | You! | TBD | TBD |
 
