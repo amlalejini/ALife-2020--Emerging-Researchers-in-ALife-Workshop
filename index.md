@@ -40,7 +40,8 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | 2 | Aymeric Vié | A genetic algorithm to solve Blotto Games | TBD |
 | 3 | Kevin Godin-Dubois | TBD | TBD |
 | 4 | Maxfield Green | TBD | TBD |
-| 5 | You! | TBD | TBD |
+| 5 | Kyle Doney | Automated tensegrity robot behavior generation | TBD |
+| 6 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
