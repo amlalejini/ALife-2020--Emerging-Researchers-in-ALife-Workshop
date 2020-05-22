@@ -41,7 +41,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | 3 | Kevin Godin-Dubois | TBD | TBD |
 | 4 | Maxfield Green | TBD | TBD |
 | 5 | Kyle Doney | Automated tensegrity robot behavior generation | TBD |
-| 6 | You! | TBD | TBD |
+| 6 | Nathan Brooks | A mechanism to promote social behaviour in household load balancing | TBD |
 
 ### Academic Karaoke
 
