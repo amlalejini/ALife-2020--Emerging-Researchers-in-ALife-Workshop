@@ -43,6 +43,8 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | 5 | Kyle Doney | Automated tensegrity robot behavior generation | TBD |
 | 6 | Nathan Brooks | A mechanism to promote social behaviour in household load balancing | TBD |
 
+**We're holding off on accepting more lightning talks to reserve space for a few academic kaoroke slots.** If we don't receive sufficient interest in doing academic karaoke, we'll open lightning talk signups again. If we do call for more lightning talks, we will do so via an announcement at the conference. 
+
 ### Academic Karaoke
 
 | Time Slot | Speaker | Contact |
