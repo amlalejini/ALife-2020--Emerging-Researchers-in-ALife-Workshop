@@ -37,7 +37,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
 | 1 | Daniel Junghans | TBD | TBD |
-| 2 | Aymeric Vié | A genetic algorithm to solve Blotto Games | TBD |
+| 2 | Georgina Montserrat Reséndiz-Benhumea and Tom Froese | Modeling the interdependence of neural and social complexity | TBD |
 | 3 | Kevin Godin-Dubois | Splinoids: first-steps out of EDEnS | TBD |
 | 4 | Maxfield Green | DEEPFIRE : A wildfire simulation system based on fully convolutional neural networks trained on real time remotely sensed data and satellite captured wildfire behaviors!  |  mgreen13 AT uvm.edu |
 | 5 | Kyle Doney | Automated tensegrity robot behavior generation | TBD |
