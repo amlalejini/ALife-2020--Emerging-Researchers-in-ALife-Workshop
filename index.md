@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Note: We switched away from updating the lightning talk and academic karaoke rosters here. Instead, we are updating a post in the ALife 2020 Slack! See the #workshop-eral channel for more info!
+
 ## Description
 
 The Emerging Researchers in Artificial Life (ERA) is the official student, post-doc, and junior researcher group for the [International Society for Artificial Life (ISAL)](http://alife.org/).
